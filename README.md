@@ -1,3 +1,3 @@
 # ProductPage_BakkiePlant
 This is a product page for group project Bakkie Plant: https://github.com/JaapMoerkerk/plantify
-In this project I was a front-end app developer (React Native) and techlead AI, as well as a designer and researcher.
+In this project I was a front-end app developer (React Native) and techlead AI, as well as a designer and researcher. I made this project page to use during a presentation for this project.
